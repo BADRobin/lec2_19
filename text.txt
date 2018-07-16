@@ -1,0 +1,6 @@
+Convert text into hexadecimal format.
+Computers store text as numbers, and with hex you display the numbers not as a decimal number, but in base 16.
+Hex or base  or hexadecimal is a numeral system that uses  symbols.
+The symbols include  and a-f (sometimes A-F).  An example of a hexadecimal number is .
+Computer science applications can use hexadecimal for binary coding in computing and digital electronics.
+The primary use of hex is a more people friendly way to represent the value.
